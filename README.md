@@ -1,4 +1,4 @@
-# Webpack loader to append text to files loader for [Webpack](http://webpack.github.io/)
+# [Webpack](http://webpack.github.io/) loader to append text to files
 
 Append a header to the contents loaded by the loader. Usefull to add headers to all your files in the webpack pipeline.
 
