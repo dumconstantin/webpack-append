@@ -1,6 +1,6 @@
 {
   "name": "webpack-append",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple loader to append text to files (useful for adding file headers)",
   "keywords": [
     "webpack",
