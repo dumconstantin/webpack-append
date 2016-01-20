@@ -33,10 +33,7 @@
   "bugs": {
     "url": "https://github.com/dumconstantin/webpack-append/issues"
   },
-  "_id": "webpack-append@0.0.1",
   "dist": {
     "shasum": ""
   },
-  "_from": "webpack-append@",
-  "_resolved": "https://registry.npmjs.org/webpack-append/-/webpack-append-0.0.1.tgz"
 }
