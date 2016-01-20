@@ -32,8 +32,5 @@
   "readmeFilename": "README.md",
   "bugs": {
     "url": "https://github.com/dumconstantin/webpack-append/issues"
-  },
-  "dist": {
-    "shasum": ""
-  },
+  }
 }
