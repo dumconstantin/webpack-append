@@ -1,6 +1,6 @@
-# Append a string to files loader for [Webpack](http://webpack.github.io/)
+# Webpack loader to append text to files loader for [Webpack](http://webpack.github.io/)
 
-Append a header to the contents loaded by the loader. Usefull to add headers to all your files in the pipeline.
+Append a header to the contents loaded by the loader. Usefull to add headers to all your files in the webpack pipeline.
 
 *Motivation*: I wanted to use Ramda functions directly in my application without import every single one causing a huge bloat in my import statements.
 I also didn't want to keep using the "R." prefix.
